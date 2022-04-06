@@ -59,7 +59,7 @@ public class Assignment6Driver {
             printGrid(game);
         }
         else {
-            System.out.println("No winner");
+            System.out.println("No winner chicken dinner winner");
             System.out.println();
             printGrid(game);
         }
